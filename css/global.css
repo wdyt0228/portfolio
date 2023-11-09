@@ -1,0 +1,56 @@
+@font-face{
+  font-family:"helvetica";
+  src:url("https://candyfonts.com/wp-data/2018/10/26/11538/HELR45W.ttf") format("woff"),
+  url("https://candyfonts.com/wp-data/2018/10/26/11538/HELR45W.ttf") format("opentype"),
+  url("https://candyfonts.com/wp-data/2018/10/26/11538/HELR45W.ttf") format("truetype");
+}
+
+* {margin:0px;padding:0px;box-sizing:border-box;}
+html,body{background:#000;}
+ul,ol{list-style:none;}
+a{text-decoration:none;}
+body{font-size:14px;font-family:'NanumGothic', 'DINPro-Medium', Tahoma, Verdana, sans-serif;}
+button{cursor:pointer;}
+textarea{display:block;font-family:"helvetica";}
+input{font-family:"helvetica";}
+
+
+a{color:#333};
+a:hover{color:crimson};
+
+.ma-t-10{margin-top:1.0rem;}
+.ma-t-15{margin-top:1.5rem;}
+.ma-t-20{margin-top:2.0rem!important;}
+.ma-b-5{margin-bottom:0.5rem;}
+.ma-b-10{margin-bottom:1.0rem;}
+.ma-b-15{margin-bottom:1.5rem!important;}
+.ma-l-5{margin-left:0.5rem;}
+.ma-l-10{margin-left:1.0rem;}
+.ma-r-5{margin-right:0.5rem;}
+.ma-r-10{margin-right:1.0rem;}
+.ma-t-5{margin-top:0.5rem;}
+.ma-t-10{margin-top:1.0rem;}
+.pa-l-5{padding-left:0.5rem;}
+
+.a-l{text-align:left!important;}
+.a-c{text-align:center;}
+.a-r{text-align:right;}
+.f-l{float:left;}
+.f-r{float:right;}
+
+.col-crim{color:crimson;}
+.col-slat{color:slateblue;}
+.col-robl{color:royalblue}
+.col-navy{color:navy}
+
+.fs-11{font-size:11px;}
+.fs-12{font-size:12px;}
+
+.w-48{width:48%;}
+.clear::after{display:block;content:'';clear:both;}
+
+.underline{text-decoration:underline;}
+
+.btn{cursor:pointer;}
+
+.main-container{}
