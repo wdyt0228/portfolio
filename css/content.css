@@ -69,3 +69,9 @@
 .item:nth-child(21) {background:url(../images/pofol-21.png)no-repeat 50% top;background-size:cover;
 /* background-color: rgba(106, 90, 205, 0.8); */
 }
+.item:nth-child(22) {background:url(../images/pofol-22.png)no-repeat 50% top;background-size:cover;
+/* background-color: rgba(106, 90, 205, 0.8); */
+}
+.item:nth-child(23) {background:url(../images/pofol-23.png)no-repeat 50% top;background-size:cover;
+/* background-color: rgba(106, 90, 205, 0.8); */
+}
